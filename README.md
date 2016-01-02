@@ -38,6 +38,7 @@ Højre | Right
 Bedstefar | Grandpa
 Bedstemor | Grandma
 Nylig | Recent
+Smukt | Beautiful
 Beskidt | Dirty
 Vigtige | Important
 Hyppigt  | Frequent
