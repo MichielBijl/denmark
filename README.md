@@ -32,7 +32,7 @@ Everything for my move to Denmark. 2016 is the year I'll move to Denmark. There 
 ## Words
 
 Danish | English
-
+-------|--------
 Venstre | Left
 Højre | Right
 Bedstefar | Grandpa
