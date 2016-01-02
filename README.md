@@ -27,6 +27,7 @@ Everything for my move to Denmark. 2016 is the year I'll move to Denmark. There 
 
 ## Videos
 - [ABC sangen](https://www.youtube.com/watch?v=bqxxWqazOHI)
+- [Danish swear words](https://www.youtube.com/watch?v=96Sv8XkRAAU) (very important)
 
 ## Companies
 - [Global Biodiversity Information Facility](http://www.gbif.org)
