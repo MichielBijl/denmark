@@ -12,6 +12,8 @@ Everything for my move to Denmark. 2016 is the year I'll move to Denmark. There 
 
 ## Links
 - [Weather by DMI](http://www.dmi.dk/vejr/) (Danmarks Meteorologiske Institut)
+- [Travel planner](http://rejseplanen.dk)
+- [Skat (Taxes)](http://www.skat.dk/)
 - [Work in Denmark](https://www.workindenmark.dk)
 - [Housing in Denmark](https://www.workindenmark.dk/Links/Housing)
 - [De Danske Sprogcentre](http://dedanskesprogcentre.dk/en/forside/) (The Danish Language Centres)
@@ -24,7 +26,7 @@ Everything for my move to Denmark. 2016 is the year I'll move to Denmark. There 
 - [Lege eller spille](http://jesperhansen.co.uk/play)
 
 ## Videos
-- []()
+- [ABC sangen](https://www.youtube.com/watch?v=bqxxWqazOHI)
 
 ## Companies
 - [Global Biodiversity Information Facility](http://www.gbif.org)
@@ -41,4 +43,5 @@ Nylig | Recent
 Smukt | Beautiful
 Beskidt | Dirty
 Vigtige | Important
-Hyppigt  | Frequent
+Hyppigt | Frequent
+Udvikler | Developer
