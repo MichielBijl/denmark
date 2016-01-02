@@ -30,6 +30,17 @@ Everything for my move to Denmark. 2016 is the year I'll move to Denmark. There 
 
 ## Companies
 - [Global Biodiversity Information Facility](http://www.gbif.org)
+- TradeShift
+- DigitasLBi
+- Trustpilot
+- Mono Solutions
+- LeapCraft
+- [Podio](https://podio.com)
+- [Plant](http://plant.dk)
+- [Wemind](http://wemind.dk)
+- [23](http://www.23company.com)
+- [Lego](http://www.lego.com/en-gb/careers/searchpage)
+- Bloom ApS
 
 ## Words
 
