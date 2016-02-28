@@ -10,6 +10,14 @@ Everything for my move to Denmark. 2016 is the year I'll move to Denmark. There 
 - Denmark was the first country in the world to allow gay marriage
 - LEGO (is very interesting)
 
+## Cities nearby København
+- Frederiksberg
+- Hellrup
+- Gentofte
+- Hvidovre
+- Rødovre
+- Brøndby
+
 ## Links
 - [Weather by DMI](http://www.dmi.dk/vejr/) (Danmarks Meteorologiske Institut)
 - [Travel planner](http://rejseplanen.dk)
